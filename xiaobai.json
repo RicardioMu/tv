@@ -2,7 +2,7 @@
   "urls": [
     {
       "url": "https://gitee.com/ajin0913/gao/raw/master/DM.json",
-      "name": "👑小白┃弹幕👑"
+      "name": "👑小白┃弹幕线路👑"
     },
     {
       "url": "https://gitee.com/ajin0913/gao/raw/master/DM1.json",
@@ -10,15 +10,23 @@
     },
     {
       "url": "https://gitee.com/ajin0913/gao/raw/master/0826.json",
-      "name": "👑小白┃饭太硬👑"
+      "name": "👑小白┃饭总线路👑"
     },
     {
       "url": "https://gitee.com/ajin0913/gao/raw/master/XYQ.json",
-      "name": "👑小白┃香雅晴👑"
+      "name": "👑小白┃香佬线路👑"
+    },
+    {
+      "url": "https://gitee.com/ajin0913/gao/raw/master/XBPQ.json",
+      "name": "👑小白┃小米线路👑"
+    },
+    {
+      "url": "https://gitee.com/ajin0913/gao/raw/master/js.json",
+      "name": "👑小白┃道长线路👑"
     },
     {
       "url": "https://gitee.com/ajin0913/jin/raw/master/18.bmp",
-      "name": "🔞小白┃福利🔞"
+      "name": "🔞小白┃福利线路🔞"
     }
   ]
 }
