@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;b3fa62bc821abf913e306bbecc8ca054",
+"spider":"./jar/fan.txt;md5;md5;8f8f0f3cb3d1c025746ffb35b22748a5",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "lives": [{"name": "live","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/ajin0913/TV/main/tv1.txt","ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
@@ -23,18 +23,6 @@
       "ext":"./json/market.json"
     },
     {
-      "key":"lf_js_lf_live",
-      "name":"☠路飞┃直播",
-      "type":3,
-      "api":"./lib/lf_live_min.js",
-      "style":{ "type":"oval"},
-      "searchable":1,
-      "changeable":0,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./js/lf_live.txt"
-    },
-    {
       "key": "csp_WoGG1",
       "name": "👽玩偶哥哥┃4.0",
       "type": 3,
@@ -47,7 +35,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K",
+      "name": "👽玩偶哥哥┃4K(弹幕测试)",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
