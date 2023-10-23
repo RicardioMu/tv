@@ -36,13 +36,14 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K",
+      "name": "👽玩偶哥哥┃4.0",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "f376521b7ba247b183262c2732d870ba+4k|auto|fhd"
+      "ext": "f376521b7ba247b183262c2732d870ba+4k|auto|fhd",
+      "jar":"./jar/jtv.jar"
     },
     {
       "key": "csp_WoGG",
