@@ -30,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "a1f6f7656dbc4a6eb629ebfb79bb4c0e+4k|auto|fhd",
+      "ext": "9f37aec0ab4e45ed956049521bd355e4+4k|auto|fhd",
       "jar":"./jar/jtv.jar"
     },
     {
@@ -41,7 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "a1f6f7656dbc4a6eb629ebfb79bb4c0e+4k|auto|fhd$$$弹"
+      "ext": "9f37aec0ab4e45ed956049521bd355e4+4k|auto|fhd$$$弹"
     },
     {
       "key": "YGP",
@@ -520,7 +520,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "a1f6f7656dbc4a6eb629ebfb79bb4c0e+4k|auto|fhd"
+      "ext": "9f37aec0ab4e45ed956049521bd355e4+4k|auto|fhd"
     },
     {
       "key": "Zhaozy",
@@ -530,7 +530,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "a1f6f7656dbc4a6eb629ebfb79bb4c0e+4k|auto|fhd$$$fanty$$$qqq111"
+      "ext": "9f37aec0ab4e45ed956049521bd355e4+4k|auto|fhd$$$fanty$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -540,7 +540,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "a1f6f7656dbc4a6eb629ebfb79bb4c0e+4k|auto|fhd"
+      "ext": "9f37aec0ab4e45ed956049521bd355e4+4k|auto|fhd"
     },
     {
       "key": "UpYun",
@@ -550,7 +550,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "a1f6f7656dbc4a6eb629ebfb79bb4c0e+4k|auto|fhd"
+      "ext": "9f37aec0ab4e45ed956049521bd355e4+4k|auto|fhd"
     },
     {
       "key": "PanSearch",
@@ -560,7 +560,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "a1f6f7656dbc4a6eb629ebfb79bb4c0e+4k|auto|fhd"
+      "ext": "9f37aec0ab4e45ed956049521bd355e4+4k|auto|fhd"
     },
     {
       "key": "七夜",
@@ -570,7 +570,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "a1f6f7656dbc4a6eb629ebfb79bb4c0e+4k|auto|fhd"
+      "ext": "9f37aec0ab4e45ed956049521bd355e4+4k|auto|fhd"
     },
     {
       "key": "push_agent",
@@ -579,7 +579,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "a1f6f7656dbc4a6eb629ebfb79bb4c0e+4k|auto|fhd"
+      "ext": "9f37aec0ab4e45ed956049521bd355e4+4k|auto|fhd"
     },
     {
       "key": "csp_Nbys",
